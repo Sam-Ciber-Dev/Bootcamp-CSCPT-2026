@@ -102,6 +102,7 @@ This repository is licensed under [CC BY-NC-ND 4.0](LICENSE). You may share the 
 
 The social preview image used for link cards:
 
+<img src="assets/social-preview.png" alt="Samuel Oliveira Portfolio: Cybersecurity, DevOps, Web, Software" width="640">
 
 ## Badges
 
