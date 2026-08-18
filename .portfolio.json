@@ -1,0 +1,18 @@
+{
+  "category": "report",
+  "title": {
+    "pt": "Bootcamp CSCPT 2026",
+    "en": "Bootcamp CSCPT 2026"
+  },
+  "description": {
+    "pt": "Relatório da minha participação no bootcamp de seleção final do Cybersecurity Challenge PT 2026, em Rio Maior. Documenta o percurso desde a fase de treino online até à competição presencial, incluindo os resultados obtidos no OMNI CTFe no CTF interno, com desafios de Crypto, Web, OSINT, Forensics e Reverse Engineering, além de uma análise crítica da experiência e recomendações para futuras edições.",
+    "en": "Report on my participation in the final selection bootcamp of the Cybersecurity Challenge PT 2026, held in Rio Maior. It documents the journey from online training to the on-site competition, including my results in the OMNI CTF and the internal CTF, covering Crypto, Web, OSINT, Forensics, and Reverse Engineering challenges, along with a critical analysis of the experience and recommendations for future editions."
+  },
+  "technologies": ["capture-the-flag", "cscpt", "ctf", "cybersecurity", "cybersecurity-challenge-pt", "infosec", "osint"],
+  "icon": "fas fa-shield-halved",
+  "report": {
+    "pt": "docs/CSCPT_Bootcamp_2026_Relatório_PT.pdf",
+    "en": "docs/CSCPT_Bootcamp_2026_Report_ENG.pdf"
+  },
+  "order": 1
+}
