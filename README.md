@@ -12,7 +12,7 @@ This repository gathers my full participation report (Portuguese and English) an
 
 This is a first-person report describing my complete journey through the program, from the online training phase to the in-person bootcamp, including the results achieved at each stage and a critical assessment of the experience. It is a personal, documentary account and does not disclose challenge solutions or any restricted material.
 
-The report was written by **José Samuel Oliveira** (Ph0enix) and is published for portfolio and documentation purposes.
+The report was written by **Samuel Oliveira** (Ph0enix) and is published for portfolio and documentation purposes.
 
 ## Program Phases
 
